@@ -1,0 +1,100 @@
+Site,reason
+MCD_07430, MCD Maint, (GMT-05:00) Eastern Time (US & Canada)
+MCD_10591, MCD Maint, (GMT-05:00) Eastern Time (US & Canada)
+MCD_11665, MCD Maint, (GMT-05:00) Eastern Time (US & Canada)
+MCD_11683, MCD Maint, (GMT-05:00) Eastern Time (US & Canada)
+MCD_11750, MCD Maint, (GMT-05:00) Eastern Time (US & Canada)
+MCD_11998, MCD Maint, (GMT-05:00) Eastern Time (US & Canada)
+MCD_13120, MCD Maint, (GMT-05:00) Eastern Time (US & Canada)
+MCD_17041, MCD Maint, (GMT-05:00) Eastern Time (US & Canada)
+MCD_17430, MCD Maint, (GMT-05:00) Eastern Time (US & Canada)
+MCD_07199, MCD Maint, (GMT-06:00) Central Time (US & Canada)
+MCD_08020, MCD Maint, (GMT-06:00) Central Time (US & Canada)
+MCD_00181, MCD Maint, (GMT-07:00) Mountain Time (US & Canada)
+MCD_00190, MCD Maint, (GMT-07:00) Mountain Time (US & Canada)
+MCD_00219, MCD Maint, (GMT-07:00) Mountain Time (US & Canada)
+MCD_00220, MCD Maint, (GMT-07:00) Mountain Time (US & Canada)
+MCD_00867, MCD Maint, (GMT-07:00) Mountain Time (US & Canada)
+MCD_01680, MCD Maint, (GMT-07:00) Mountain Time (US & Canada)
+MCD_02279, MCD Maint, (GMT-07:00) Mountain Time (US & Canada)
+MCD_02671, MCD Maint, (GMT-07:00) Mountain Time (US & Canada)
+MCD_00052, MCD Maint, (GMT-08:00) Pacific Time (US & Canada)
+MCD_00486, MCD Maint, (GMT-08:00) Pacific Time (US & Canada)
+MCD_00534, MCD Maint, (GMT-08:00) Pacific Time (US & Canada)
+MCD_00561, MCD Maint, (GMT-08:00) Pacific Time (US & Canada)
+MCD_00623, MCD Maint, (GMT-08:00) Pacific Time (US & Canada)
+MCD_00632, MCD Maint, (GMT-08:00) Pacific Time (US & Canada)
+MCD_00633, MCD Maint, (GMT-08:00) Pacific Time (US & Canada)
+MCD_00658, MCD Maint, (GMT-08:00) Pacific Time (US & Canada)
+MCD_00688, MCD Maint, (GMT-08:00) Pacific Time (US & Canada)
+MCD_00724, MCD Maint, (GMT-08:00) Pacific Time (US & Canada)
+MCD_00731, MCD Maint, (GMT-08:00) Pacific Time (US & Canada)
+MCD_00735, MCD Maint, (GMT-08:00) Pacific Time (US & Canada)
+MCD_00741, MCD Maint, (GMT-08:00) Pacific Time (US & Canada)
+MCD_00744, MCD Maint, (GMT-08:00) Pacific Time (US & Canada)
+MCD_00773, MCD Maint, (GMT-08:00) Pacific Time (US & Canada)
+MCD_00779, MCD Maint, (GMT-08:00) Pacific Time (US & Canada)
+MCD_00787, MCD Maint, (GMT-08:00) Pacific Time (US & Canada)
+MCD_00809, MCD Maint, (GMT-08:00) Pacific Time (US & Canada)
+MCD_13538,First precheck Ping times
+MCD_00814,First precheck Ping times
+MCD_06920,Bar Ticket, Dup uplink
+MCD_10439,Bar Ticket, Dup MCDMNT
+MCD_00038,Bar Ticket
+MCD_00039,Bar Ticket
+MCD_00353,Bar Ticket, Dup MCDMNT
+MCD_14685,Bar Ticket
+MCD_06574,Bar Ticket, Dup uplink
+MCD_11189,Bar Ticket
+MCD_11199,Bar Ticket
+MCD_06077,Bar Ticket
+MCD_05673,Bar Ticket
+MCD_06469,Bar Ticket
+MCD_06791,Bar Ticket
+MCD_07087,Bar Ticket
+MCD_07249,Bar Ticket
+MCD_07740,Bar Ticket
+MCD_07787,Bar Ticket
+MCD_08058,Bar Ticket
+MCD_08171,Bar Ticket
+MCD_10316,Bar Ticket
+MCD_06213,Bar Ticket
+MCD_06865,Bar Ticket
+MCD_06610,Bar Ticket
+MCD_06958,Bar Ticket
+MCD_07060,Bar Ticket
+MCD_08020,Bar Ticket
+MCD_10119,Bar Ticket
+MCD_10385,Bar Ticket, Dup MCDMNT
+MCD_07416,Bar Ticket
+MCD_02023,Bar Ticket
+MCD_02427,Bar Ticket
+MCD_03140,Bar Ticket
+MCD_07776,Bar Ticket
+MCD_16090,Bar Ticket, Dup MCDMNT
+MCD_07426,Bar Ticket
+MCD_10468,Bar Ticket
+MCD_10569,Bar Ticket
+MCD_00308,Bar Ticket
+MCD_03596,Bar Ticket, dup uplink
+MCD_05736,Bar Ticket, Dup MCDMNT
+MCD_05870,Bar Ticket, Dup MCDMNT
+MCD_06020,Bar Ticket, Dup MCDMNT
+MCD_06241,Bar Ticket
+MCD_06446,Bar Ticket, Dup MCDMNT
+MCD_06532,Bar Ticket, Dup MCDMNT
+MCD_06708,Bar Ticket
+MCD_07722,Bar Ticket, Dup MCDMNT
+MCD_07898,Bar Ticket
+MCD_08096,Bar Ticket
+MCD_10081,Bar Ticket
+MCD_10423,Bar Ticket
+MCD_11682, Primay Link down
+MCD_12895,   Auth issue
+MCD_13686, Primay link down
+MCD_1633 ,   Auth issue
+MCD_10957, Primary Link down
+MCD_05292,  High Latency
+MCD_05881,  Primary Link down
+MCD_12895,auth
+MCD_16331,auth
